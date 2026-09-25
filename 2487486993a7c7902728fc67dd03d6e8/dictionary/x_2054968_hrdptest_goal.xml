@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="f628dd1488e146bda0c93369d77af9dd" label="Goal" name="x_2054968_hrdptest_goal" type="collection">
+        <element default="not_started" label="Status" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancelled" sequence="4" value="cancelled"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="in_progress"/>
+                <element inactive_on_update="false" label="Not Started" sequence="1" value="not_started"/>
+            </choice>
+        </element>
+        <element label="Employee" mandatory="true" name="employee" reference="sys_user" type="reference"/>
+        <element default="0" label="Progress (%)" name="progress" type="integer"/>
+        <element label="Description" name="description" type="multi_two_lines"/>
+        <element label="Due Date" name="due_date" type="glide_date"/>
+        <element display="true" label="Title" mandatory="true" max_length="255" name="title" type="string"/>
+        <element default="medium" label="Priority" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="1" value="low"/>
+                <element inactive_on_update="false" label="High" sequence="3" value="high"/>
+                <element inactive_on_update="false" label="Medium" sequence="2" value="medium"/>
+            </choice>
+        </element>
+        <element label="Category" max_length="100" name="category" type="string"/>
+        <index name="index">
+            <element name="employee"/>
+        </index>
+    </element>
+</database>
