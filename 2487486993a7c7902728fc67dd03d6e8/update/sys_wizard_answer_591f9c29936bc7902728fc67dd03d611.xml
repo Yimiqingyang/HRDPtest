@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New githubtest</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>githubtest</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">4fe4d024f54003100a22c0b3dfa15116</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 06:58:44</sys_created_on>
+        <sys_id>591f9c29936bc7902728fc67dd03d611</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>githubtest</sys_name>
+        <sys_package display_value="HRDPtest" source="x_2054968_hrdptest">2487486993a7c7902728fc67dd03d6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRDPtest">2487486993a7c7902728fc67dd03d6e8</sys_scope>
+        <sys_update_name>sys_wizard_answer_591f9c29936bc7902728fc67dd03d611</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 06:58:44</sys_updated_on>
+        <table/>
+        <target_url>x_2054968_hrdptest_githubtest.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

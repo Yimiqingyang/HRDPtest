@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 06:59:07</sys_created_on>
+        <sys_id>ba2f5069936bc7902728fc67dd03d62a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2054968_hrdptest_githubtest.x_2054968_hrdptest.user</sys_name>
+        <sys_package display_value="HRDPtest" source="x_2054968_hrdptest">2487486993a7c7902728fc67dd03d6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRDPtest">2487486993a7c7902728fc67dd03d6e8</sys_scope>
+        <sys_security_acl display_value="x_2054968_hrdptest_githubtest">922f1069936bc7902728fc67dd03d629</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ba2f5069936bc7902728fc67dd03d62a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 06:59:07</sys_updated_on>
+        <sys_user_role display_value="x_2054968_hrdptest.user" name="x_2054968_hrdptest.user">702fdc29936bc7902728fc67dd03d6c8</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

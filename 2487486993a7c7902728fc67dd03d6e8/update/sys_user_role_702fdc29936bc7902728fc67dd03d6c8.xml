@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>9HgbmnreRnpfGS3k03bttk5t7wYi6lpJ4kPXj5naEmY=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2054968_hrdptest.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 06:58:58</sys_created_on>
+        <sys_id>702fdc29936bc7902728fc67dd03d6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2054968_hrdptest.user</sys_name>
+        <sys_package display_value="HRDPtest" source="x_2054968_hrdptest">2487486993a7c7902728fc67dd03d6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRDPtest">2487486993a7c7902728fc67dd03d6e8</sys_scope>
+        <sys_update_name>sys_user_role_702fdc29936bc7902728fc67dd03d6c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 06:58:58</sys_updated_on>
+    </sys_user_role>
+</record_update>
