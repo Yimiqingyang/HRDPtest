@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_2054968_hrdptest.user" name="x_2054968_hrdptest.user">702fdc29936bc7902728fc67dd03d6c8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-25 06:58:59</sys_created_on>
+        <sys_id>702fdc29936bc7902728fc67dd03d6cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>702fdc29936bc7902728fc67dd03d6c8</sys_name>
+        <sys_package display_value="HRDPtest" source="x_2054968_hrdptest">2487486993a7c7902728fc67dd03d6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HRDPtest">2487486993a7c7902728fc67dd03d6e8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_702fdc29936bc7902728fc67dd03d6cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-25 06:58:59</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
